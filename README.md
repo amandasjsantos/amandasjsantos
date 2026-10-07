@@ -1,4 +1,4 @@
-# Olá, eu sou Amanda! 👋
+# Olá, eu sou a Amanda! 👋
  
 ## 🤍 Sobre mim
  
@@ -27,10 +27,18 @@ Ao longo do curso, também trabalhei com Python, PHP, Java e MySQL. Atualmente, 
  
 ## 📊 Estatísticas GitHub
  
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandasjsantos&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandasjsantos&layout=compact" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandasjsantos&show_icons=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandasjsantos&layout=compact" />
+      </td>
+    </tr>
+  </table>
+</div>
  
 ---
  
