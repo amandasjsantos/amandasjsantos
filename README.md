@@ -3,4 +3,11 @@
 ## 🩷 Sobre mim
 ## 🛠️ Tecnologias e Ferramentas
 ## 🌐 Conecte-se comigo
+
 ## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=amandasjsantos&show_icons=true&title_color=f472b6&text_color=e9d5ff&icon_color=c084fc&bg_color=2e1065&border_color=a855f7" />
+  <img height="180" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandasjsantos&layout=compact&langs_count=8&title_color=f472b6&text_color=e9d5ff&bg_color=2e1065&border_color=a855f7" />
+  <img height="180" alt="Sequência de contribuições" src="https://streak-stats.demolab.com/?user=amandasjsantos&theme=transparent&background=2e1065&border=a855f7&stroke=a855f7&ring=f472b6&fire=f472b6&currStreakNum=e9d5ff&sideNums=e9d5ff&currStreakLabel=f472b6&sideLabels=c084fc&dates=d8b4fe" />
+</p>
