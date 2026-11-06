@@ -2,6 +2,10 @@
 
 ## 🩷 Sobre mim
 
+Olá, eu sou a Amanda, mas também pode me chamar de Amandinha!
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em busca de uma oportunidade na área de **Desenvolvimento Front-End**.
+
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
