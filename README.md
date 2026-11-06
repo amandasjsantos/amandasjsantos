@@ -2,7 +2,14 @@
 
 ## 🩷 Sobre mim
 ## 🛠️ Tecnologias e Ferramentas
+
 ## 🌐 Conecte-se comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amanda-santos-887a26369/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-a855f7?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ## 📊 Estatísticas do GitHub
 
